@@ -1,2 +1,2 @@
 # Objective-c
-Some iOS with objective-c
+Some projects in iOS with objective-c
